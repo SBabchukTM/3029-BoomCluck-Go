@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165956076549",
+    "project_id": "boomcluck-go",
+    "storage_bucket": "boomcluck-go.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165956076549:android:62fa4a31fdc9190923486c",
+        "android_client_info": {
+          "package_name": "com.codigames.idle.game.tycoon.life.s"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTkhGiFReOHNhO257uU-N-V-U_EmGHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

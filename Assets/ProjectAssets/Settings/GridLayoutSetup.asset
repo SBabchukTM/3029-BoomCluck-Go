@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fc5a43a712bff4ca0c25fd91310895, type: 3}
+  m_Name: GridLayoutSetup
+  m_EditorClassIdentifier: 
+  SixElementsGrid:
+    CellSize: 220
+    Spacing: 30
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 3
+  EightElementsGrid:
+    CellSize: 220
+    Spacing: 30
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 3
+  TenElementsGrid:
+    CellSize: 180
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 4
+  TwelveElementsGrid:
+    CellSize: 180
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 4
+  FourteenElementsGrid:
+    CellSize: 170
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 4
+  SixteenElementsGrid:
+    CellSize: 170
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 4
+  EighteenElementsGrid:
+    CellSize: 140
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 5
+  TwentyElementsGrid:
+    CellSize: 140
+    Spacing: 10
+    ConstRows: 0
+    Rows: 0
+    ConstColumns: 1
+    Columns: 5
